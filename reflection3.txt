@@ -1,0 +1,3 @@
+roznice pomiedy forks.... forks jest odmiana clona ktore kopiuje istniejace repostytorium w przestrzeni githuba'
+clone tworzy lokalna kopie repostyrium
+branch jest czescia repostytrium 
